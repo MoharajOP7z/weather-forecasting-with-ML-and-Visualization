@@ -154,7 +154,7 @@ BASE_URL=https://api.openweathermap.org/data/2.5/
 ```
 ##### ❗🚫 Sharing an ```API KEY``` is generally considered a security risk as it allows unauthorized access to your application or service, potentially leading to data breaches, excessive usage, or even account compromise 🚫❗
 
-### 📥  Pun app
+### 📥  Run app
 
 Runs the app in the development mode.
 
