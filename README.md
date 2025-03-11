@@ -45,7 +45,7 @@ audiences.Technical Stack and Library Packages.
 
 ##  :large_blue_diamond:  ScreenShots
 
-![App Screenshot](./screenshot/Screenshot%20(3).png)
+![App Screenshot](https://github.com/MoharajOP7z/weather-forecasting-with-ML-and-Visualization/blob/b47dee6f699f2d7e663fd4528e18db2ce0d87495/screenshot/Screenshot%202025-03-11%20174643.png)
 
 
 ## 🚀 Live Demo
